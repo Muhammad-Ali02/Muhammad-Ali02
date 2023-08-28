@@ -31,7 +31,7 @@
    "frontend": ["HTML/CSS", "REACT"],
    "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
    "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
-   "game developement": ["Unity Engine"]
+   "gamedevelopment": ["Unity Engine"]
 }
 ``` -->
 
