@@ -30,13 +30,13 @@
    "backend": ["NodeJS", "Flask", "Django", "SpringBoot"],
    "frontend": ["HTML/CSS", "REACT"],
    "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
-   "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
-   "game developement": ["Unity Engine"]
+   "ai framework": ["Scikit-learn", "TensorFlow", "Keras",],
+   game development": ["Unity Engine"]
 }
 ``` -->
 
 <p align="left">
-  <img align="left" alt="ADOBE COLDFUSION" src="https://en.wikipedia.org/wiki/Adobe_ColdFusion#/media/File:Adobe_ColdFusion_logo_2021.svg" width="60" height="60"/>
+  <img align="left" alt="" src="https://en.wikipedia.org/wiki/Adobe_ColdFusion#/media/File:Adobe_ColdFusion_logo_2021.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
