@@ -5,7 +5,7 @@
 </div>
 
 - ⚡ I'm Computer Engineering Graduate from UET, Lahore, Pakistan,
-- 🧩 I'm a full stack Engineer with hands on Adobe ColdFusion, Html5, Css3, JavaScript, MERN stack, MEAN stack, PHP and Laravel.
+- 👯 I'm a full stack Engineer with hands on Adobe ColdFusion, Html5, Css3, JavaScript, MERN stack, MEAN stack, PHP and Laravel.
 - 🧩 I'm a professional Product Designer and Developer.
 - 🌱 I’m currently working as a full time independent Free Lancer.
 - 👯 I’m looking to collaborate with those who need their products developed from design to development.
