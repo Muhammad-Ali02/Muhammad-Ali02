@@ -5,11 +5,11 @@
 </div>
 
 - ⚡ I'm Computer Engineering Graduate from UET, Lahore, Pakistan,
-- 👯 I'm a full stack Engineer with hands on Adobe ColdFusion, Html5, Css3, JavaScript, MERN stack, MEAN stack, PHP and Laravel.
-- 🧩 I'm a professional Product Designer and Developer.
+- 👯 I'm a full stack Engineer with hands on Mern Stack, Adobe ColdFusion, Html5, Css3, JavaScript, MEAN stack, PHP and Laravel.
+- 🧩 I'm a professional Product Developer.
 - 🌱 I’m currently working as a full time independent Free Lancer.
 - 👯 I’m looking to collaborate with those who need their products developed from design to development.
-- 🥅 2023 Goals: Contribute more to Projects to have access over more and more products and services.
+- 🥅 2023 Goals: Contribute more to Projects to gain experience
 
 <div align="center">
 
@@ -20,56 +20,60 @@
 
 </div>
 
-## Technologies Stack
+# Technologies Stack
 
-<!-- ```json
-{
-   "languages": ["Python", "Java", "C++", "C#", "JS", "Perl"],
-   "backend": ["NodeJS", "Flask", "Django", "SpringBoot"],
-   "frontend": ["HTML/CSS", "REACT"],
-   "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
-   "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
-   "game developement": ["Unity Engine"]
-}
-``` -->
-
-<p align="left">
-  <img align="left" alt="React" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" width="60" height="60"/>
-
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt="Node" width="60" height="60"/>
-
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt="Express" width="60" height="60"/>
-
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt="opencv" width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=vs width="60" height="60"/>
-
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
-  
-  
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <th style="padding: 20px; font-size: 20px;">Frontend</th>
+      <th style="padding: 20px; font-size: 20px;">Backend</th>
+      <th style="padding: 20px; font-size: 20px;">Databases</th>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h2>React</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt="React" width="60" height="60"/>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>Node</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt="Node" width="60" height="60"/>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>MongoDB</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt="MongoDB" width="60" height="60"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h2>HTML5</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt="HTML5" width="60" height="60"/>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>Express</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt="Express" width="60" height="60"/>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>MySQL</h2>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h2>CSS3</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt="CSS3" width="60" height="60"/>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>Bootstrap</h2>
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt="Bootstrap" width="60" height="60"/>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>PostgreSQL</h2>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+      </td>
+    </tr>
+    <!-- Add more rows for additional technologies -->
+  </table>
+</div>
 
 <h2>Programming Languages </h2>
 <p align="left">
@@ -87,15 +91,3 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
   <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="60" height="60"/>
 </p>
-
-<!-- ## Github Stats
-
-<p align="left">
-  <img class="darkMode" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/>
-  <img class="darkMode" alt="M Usman Tahir Top Languages" style="padding-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman-Tahir&langs_count=12&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width=35%/>
-</p>
-<br>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-Tahir&count_private=true&hide_border=true&bg_color=0d1117&theme=github" /> -->
-</p> 
