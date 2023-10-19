@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[![Gmail](https://img.shields.io/badge/-Send%20Mail-black?color=14171A&logo=gmail "mg0020@bjs-softsolution.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin)](https://www.linkedin.com/in/m-u-t-dev/)
+[![Gmail](https://img.shields.io/badge/-Send%20Mail-black?color=14171A&logo=gmail "mg0020@bjs-softsolution.com")](mailto:mg0020@bjs-softsolution.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin)](https://www.linkedin.com/in/)
 
 ![GitHub followers](https://img.shields.io/github/followers/M-Usman-Tahir?label=follow&style=social "Follow on Github")
 ![](https://komarev.com/ghpvc/?username=M-Usman-Tahir)
@@ -23,17 +23,6 @@
 </div>
 
 ## Technologies Stack
-
-<!-- ```json
-{
-   "languages": ["Python", "Java", "C++", "C#", "JS", "Perl"],
-   "backend": ["NodeJS", "Flask", "Django", "SpringBoot"],
-   "frontend": ["HTML/CSS", "REACT"],
-   "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
-   "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
-   "game developement": ["Unity Engine"]
-}
-``` -->
 
 <p align="left">
     
