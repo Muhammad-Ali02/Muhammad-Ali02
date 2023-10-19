@@ -14,15 +14,14 @@
 
 ### Connect with me:
 
-[![Gmail](https://img.shields.io/badge/-Send%20Mail-black?color=14171A&logo=gmail "m.usman.tahir.336@gmail.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin "m-u-t-dev")](https://www.linkedin.com/in/m-u-t-dev/)
+[![Gmail](https://img.shields.io/badge/-Send%20Mail-black?color=14171A&logo=gmail "mg0020@bjs-softsolution.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin "")](https://www.linkedin.com/in/m-u-t-dev/)
 
 
-![GitHub followers](https://img.shields.io/github/followers/M-Usman-Tahir?label=follow&style=social "Follow on Github")
-![](https://komarev.com/ghpvc/?username=M-Usman-Tahir "M-Usman-Tahir")
+![GitHub followers](https://img.shields.io/github/followers/?label=follow&style=social "Follow on Github")
+![](https://komarev.com/ghpvc/?username=M-Usman-Tahir "")
 
-<!-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40MUsmanTahir "_MUsmanTahir_")](https://twitter.com/_MUsmanTahir_) -->
-<!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff "m.usmantahir")](https://www.instagram.com/m.usmantahir/) -->
+
 
 </div>
 
