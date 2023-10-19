@@ -8,7 +8,7 @@
 - 🧩 I'm a professional web developer having grip on full stack (Adobe Coldfusion, LUCEE, MURA ,ColdBox) and MERN stack
 - 🌱 I’m currently learning new technologies to gain more and more experience
 - 👯 I’m looking to collaborate with enterprenuers, Agency Owners and preofessional to boost my career
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 <div align="center">
 
