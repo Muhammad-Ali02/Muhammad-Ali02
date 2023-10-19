@@ -18,7 +18,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin "")](https://www.linkedin.com/in/m-u-t-dev/)
 
 
-![GitHub followers](https://img.shields.io/github/followers/?label=follow&style=social "Follow on Github")
+![GitHub followers](https://img.shields.io/github/followers/M-Usman-Tahir?label=follow&style=social "Follow on Github")
 ![](https://komarev.com/ghpvc/?username=M-Usman-Tahir "")
 
 
